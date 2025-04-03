@@ -3,6 +3,8 @@
 This repository simulates the development of a PayID QR scanner feature for a bank mobile app.
 Initial feature idea: Scan QR codes to auto-fill PayID details for Osko payments.
 
+# Task Allocation
+We used Jira to alocated task and created sprint to stick with the schedule of dealine submission.
 # Feature
 Member 1: Initialized the project and created initial ground, gathered resources and assigned tasks to team members.
 
