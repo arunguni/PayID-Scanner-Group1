@@ -4,6 +4,8 @@ This repository simulates the development of a PayID QR scanner feature for a ba
 Initial feature idea: Scan QR codes to auto-fill PayID details for Osko payments.
 
 # Feature
-New branch with feature-autofill is created in this repository.
+Member 1: Initialized the project and created initial ground, gathered resources and assigned tasks to team members.
 
-New branch with feature-UI is created in this repository.
+Member 2: New branch with feature-autofill is created in this repository.
+
+Member 3: New branch with feature-UI is created in this repository.
